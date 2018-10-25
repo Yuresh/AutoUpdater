@@ -2,7 +2,7 @@
 <sharpUpdate> 
     <update> 
         <version>2.0.0.0</version> 
-        <url>https://github.com/Yuresh/g/blob/master/TestApp.exe?raw=true</url> 
+        <url>https://github.com/Yuresh/AutoUpdater/blob/master/TestApp.exe?raw=true</url> 
         <filePath>./TestApp.exe</filePath>
         <md5>0E30B3F7695A043A618752861ED999BE</md5>
         <description>update app</description> 
@@ -11,7 +11,7 @@
     
     <update> 
         <version>2.0.0.0</version> 
-        <url>https://github.com/Yuresh/g/blob/master/SharpUpdate.dll?raw=true</url> 
+        <url>https://github.com/Yuresh/AutoUpdater/blob/master/SharpUpdate.dll?raw=true</url> 
         <filePath>./SharpUpdate.dll</filePath>
         <md5>14ABAD2BE3745DD405681680E006D645</md5>
         <description>Update: 10/06/2018:
@@ -22,7 +22,7 @@
     
     <add> 
         <version>2.0.0.0</version> 
-        <url>https://github.com/Yuresh/g/blob/master/SharpUpdate.dll?raw=true</url> 
+        <url>https://github.com/Yuresh/AutoUpdater/blob/master/SharpUpdate.dll?raw=true</url> 
         <filePath>./test_add/SharpUpdate.dll</filePath>
         <md5>14ABAD2BE3745DD405681680E006D645</md5>
         <description>update dill</description> 
