@@ -6,7 +6,7 @@
         <filePath>./TestApp.exe</filePath>
         <md5>0E30B3F7695A043A618752861ED999BE</md5>
         <description>update app</description> 
-        <launchArgs></launchArgs> 
+        <launchArgs>a</launchArgs> 
     </update>
     
     <update> 
@@ -16,7 +16,7 @@
         <md5>14ABAD2BE3745DD405681680E006D645</md5>
         <description>Update: 10/06/2018:
         1. Support for multiple files updating.</description> 
-        <launchArgs></launchArgs>
+        <launchArgs>b</launchArgs>
     </update>
     
     
@@ -26,12 +26,12 @@
         <filePath>./test_add/SharpUpdate.dll</filePath>
         <md5>14ABAD2BE3745DD405681680E006D645</md5>
         <description>update dill</description> 
-        <launchArgs></launchArgs> 
+        <launchArgs>c</launchArgs> 
     </add>
          
     <remove>
         <filePath>./test_remove/SharpUpdate-Copy.dll</filePath>
         <description>removeee</description> 
-        <launchArgs></launchArgs> 
+        <launchArgs>d</launchArgs> 
     </remove>
 </sharpUpdate>
