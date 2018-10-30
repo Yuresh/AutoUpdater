@@ -21,7 +21,6 @@
     
     
     <add> 
-        <version>2.0.0.0</version> 
         <url>https://github.com/Yuresh/AutoUpdater/blob/master/SharpUpdate.dll?raw=true</url> 
         <filePath>./test_add/SharpUpdate.dll</filePath>
         <md5>ADC82B3AC2F86F709D06091CFC8B31CD</md5>
